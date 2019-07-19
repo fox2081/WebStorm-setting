@@ -1,38 +1,10 @@
 <keymap version="1" name="Fox 01" parent="$default">
-  <action id="$EditorTranslateAction">
-    <keyboard-shortcut first-keystroke="shift ctrl g" />
-  </action>
-  <action id="$ShowInstantTranslationDialogAction">
-    <keyboard-shortcut first-keystroke="shift ctrl o" />
-  </action>
-  <action id="$ShowTranslationDialogAction" />
-  <action id="Back">
-    <mouse-shortcut keystroke="button4" />
-  </action>
-  <action id="CodeGlance.toggle" />
-  <action id="CollapseRegion">
-    <keyboard-shortcut first-keystroke="ctrl subtract" />
-    <keyboard-shortcut first-keystroke="ctrl minus" />
-    <mouse-shortcut keystroke="control button143" />
-  </action>
   <action id="ContextHelp" />
   <action id="Diff.ApplyLeftSide" />
   <action id="Diff.ApplyRightSide" />
-  <action id="EditSource" />
-  <action id="Editor EditorTranslateAction">
-    <keyboard-shortcut first-keystroke="shift ctrl g" />
-  </action>
-  <action id="Editor ShowInstantTranslationDialogAction">
-    <keyboard-shortcut first-keystroke="shift ctrl o" />
-  </action>
   <action id="EditorPasteFromX11" />
   <action id="EditorToggleShowLineNumbers">
     <keyboard-shortcut first-keystroke="alt d" />
-  </action>
-  <action id="ExpandRegion">
-    <keyboard-shortcut first-keystroke="ctrl add" />
-    <keyboard-shortcut first-keystroke="ctrl equals" />
-    <mouse-shortcut keystroke="control button142" />
   </action>
   <action id="ExportSettings">
     <keyboard-shortcut first-keystroke="shift ctrl alt e" />
@@ -45,39 +17,6 @@
   <action id="FixDocComment">
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
   </action>
-  <action id="Forward">
-    <mouse-shortcut keystroke="button5" />
-  </action>
-  <action id="GotoBookmark0">
-    <keyboard-shortcut first-keystroke="ctrl alt numpad0" />
-  </action>
-  <action id="GotoBookmark1">
-    <keyboard-shortcut first-keystroke="ctrl alt numpad1" />
-  </action>
-  <action id="GotoBookmark2">
-    <keyboard-shortcut first-keystroke="ctrl alt numpad2" />
-  </action>
-  <action id="GotoBookmark3">
-    <keyboard-shortcut first-keystroke="ctrl alt numpad3" />
-  </action>
-  <action id="GotoBookmark4">
-    <keyboard-shortcut first-keystroke="ctrl alt numpad4" />
-  </action>
-  <action id="GotoBookmark5">
-    <keyboard-shortcut first-keystroke="ctrl alt numpad5" />
-  </action>
-  <action id="GotoBookmark6">
-    <keyboard-shortcut first-keystroke="ctrl alt numpad6" />
-  </action>
-  <action id="GotoBookmark7">
-    <keyboard-shortcut first-keystroke="ctrl alt numpad7" />
-  </action>
-  <action id="GotoBookmark8">
-    <keyboard-shortcut first-keystroke="ctrl alt numpad8" />
-  </action>
-  <action id="GotoBookmark9">
-    <keyboard-shortcut first-keystroke="ctrl alt numpad9" />
-  </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl b" />
     <mouse-shortcut keystroke="control button1" />
@@ -88,12 +27,7 @@
   <action id="GotoPreviousBookmark">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
-  <action id="HideIgnoredFiles">
-    <keyboard-shortcut first-keystroke="shift ctrl alt s" />
-  </action>
-  <action id="NextEditorTab">
-    <keyboard-shortcut first-keystroke="ctrl alt right" />
-  </action>
+  <action id="NextEditorTab" />
   <action id="NextOccurence" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="shift alt right" />
@@ -101,17 +35,8 @@
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="shift alt left" />
   </action>
-  <action id="PreviousEditorTab">
-    <keyboard-shortcut first-keystroke="ctrl alt left" />
-  </action>
+  <action id="PreviousEditorTab" />
   <action id="PreviousOccurence" />
-  <action id="ShowBookmarks">
-    <keyboard-shortcut first-keystroke="shift f11" />
-    <keyboard-shortcut first-keystroke="shift context_menu" />
-  </action>
-  <action id="StringManipulation.SwitchStyleAction">
-    <keyboard-shortcut first-keystroke="alt comma" />
-  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -123,43 +48,8 @@
   </action>
   <action id="ToggleBookmark">
     <keyboard-shortcut first-keystroke="f11" />
-    <keyboard-shortcut first-keystroke="ctrl alt context_menu" />
+    <mouse-shortcut keystroke="button2" />
   </action>
-  <action id="ToggleBookmark0">
-    <keyboard-shortcut first-keystroke="ctrl numpad0" />
-  </action>
-  <action id="ToggleBookmark1">
-    <keyboard-shortcut first-keystroke="ctrl numpad1" />
-  </action>
-  <action id="ToggleBookmark2">
-    <keyboard-shortcut first-keystroke="ctrl numpad2" />
-  </action>
-  <action id="ToggleBookmark3">
-    <keyboard-shortcut first-keystroke="ctrl numpad3" />
-  </action>
-  <action id="ToggleBookmark4">
-    <keyboard-shortcut first-keystroke="ctrl numpad4" />
-  </action>
-  <action id="ToggleBookmark5">
-    <keyboard-shortcut first-keystroke="ctrl numpad5" />
-  </action>
-  <action id="ToggleBookmark6">
-    <keyboard-shortcut first-keystroke="ctrl numpad6" />
-  </action>
-  <action id="ToggleBookmark7">
-    <keyboard-shortcut first-keystroke="ctrl numpad7" />
-  </action>
-  <action id="ToggleBookmark8">
-    <keyboard-shortcut first-keystroke="ctrl numpad8" />
-  </action>
-  <action id="ToggleBookmark9">
-    <keyboard-shortcut first-keystroke="ctrl numpad9" />
-  </action>
-  <action id="ToggleBookmarkWithMnemonic">
-    <keyboard-shortcut first-keystroke="ctrl f11" />
-    <keyboard-shortcut first-keystroke="ctrl context_menu" />
-  </action>
-  <action id="Vcs.QuickListPopupAction" />
   <action id="com.eslint">
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
