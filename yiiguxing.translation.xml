@@ -1,0 +1,41 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="msg" />
+      <item value="subtab" />
+      <item value="name" />
+      <item value="INTERFACES" />
+      <item value="arrow-parens" />
+      <item value="dangle" />
+      <item value="transfer" />
+      <item value="Mandatory" />
+      <item value="FF 4 F 4 FFF" />
+      <item value="merits" />
+      <item value="是不被允许的" />
+      <item value="‘是’是不被允许的" />
+      <item value="只有‘是’是被允许的" />
+      <item value="validate Value" />
+      <item value="产品型号" />
+      <item value="您可以在当前列表内定制产品型号" />
+      <item value="/* ------------------ 增加角色表单配置 ------------------ */&#10;const addRolePrefix = 'organization.details.userRole.user.dialog.edit';&#10;export const addRoleConfig: IFormConfig[] = [ { name: 'name', text: organizationLang.text(`${addRolePrefix}.name`), type: FormValueType.STRING, max: 128, required: true }, { name: 'desc', text: organizationLang.text(`${addRolePrefix}.desc`), type: FormValueType.STRING, min: 0, max: 512 }&#10;]; /* ------------------ 增加辖区表单配置 ------------------ */&#10;const addDirPrefix = 'organization.details.userRole.dir.dialog.edit';&#10;export const addDirConfig: IFormConfig[] = [ { name: 'name', text: organizationLang.text(`${addDirPrefix}.name`), type: FormValueType.STRING, max: 128, required: true }, { name: 'desc', text: organizationLang.text(`${addDirPrefix}.desc`), type: FormValueType.STRING, min: 0, max: 512 }&#10;];&#10;/* ------------------ 增加辖区表单配置 ------------------ */&#10;export const addProjectAuthConfig: IFormConfig[] = [{ name: 'proId', text: organizationLang.text('organization.orgauth.noticecheckrequire'), type: FormValueType.STRING, required: true }];" />
+      <item value="manufacturers" />
+      <item value="型号" />
+      <item value="pin" />
+      <item value="pattern" />
+      <item value="slot" />
+      <item value="industry" />
+      <item value="product" />
+      <item value="create" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="20" />
+        <entry key="ENGLISH" value="21" />
+        <entry key="LATIN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>
