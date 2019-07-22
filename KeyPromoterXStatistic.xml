@@ -302,7 +302,15 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>51</Count>
+          <Count>52</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle Bookmark">
+        <Item>
+          <IdeaActionID>ToggleBookmark</IdeaActionID>
+          <ShortCut>'F11'</ShortCut>
+          <Description>Toggle Bookmark</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
