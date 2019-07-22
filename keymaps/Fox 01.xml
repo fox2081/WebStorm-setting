@@ -37,6 +37,9 @@
   </action>
   <action id="PreviousEditorTab" />
   <action id="PreviousOccurence" />
+  <action id="StringManipulation.SwitchStyleAction">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
