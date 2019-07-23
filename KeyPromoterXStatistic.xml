@@ -334,7 +334,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>Update Project</Description>
-          <Count>298</Count>
+          <Count>300</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
@@ -350,7 +350,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>85</Count>
+          <Count>86</Count>
         </Item>
       </Statistic>
     </option>
