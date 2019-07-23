@@ -222,7 +222,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>71</Count>
+          <Count>72</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show All Affected Files">
@@ -310,7 +310,7 @@
           <IdeaActionID>ToggleBookmark</IdeaActionID>
           <ShortCut>'F11'</ShortCut>
           <Description>Toggle Bookmark</Description>
-          <Count>12</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
