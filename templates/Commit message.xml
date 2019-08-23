@@ -1,5 +1,5 @@
 <templateSet group="Commit message">
-  <template name="style" value=":art:" toReformat="false" toShortenFQNames="true">
+  <template name="style" value="💄[Style][]: " description="💄[Style]" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS" value="false" />
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
