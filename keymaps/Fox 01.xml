@@ -1,7 +1,14 @@
 <keymap version="1" name="Fox 01" parent="$default">
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
+  <action id="CodeGlance.toggle" />
   <action id="ContextHelp" />
   <action id="Diff.ApplyLeftSide" />
   <action id="Diff.ApplyRightSide" />
+  <action id="Editor EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
   <action id="EditorPasteFromX11" />
   <action id="EditorToggleShowLineNumbers">
     <keyboard-shortcut first-keystroke="alt d" />
