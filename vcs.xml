@@ -145,6 +145,7 @@
     </option>
   </component>
   <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="C:/Work/PRO/NN/nn-light-web-temporary" />
     <option name="MANAGE_IGNORE_FILES" value="true" />
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
