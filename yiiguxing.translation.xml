@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="部署" />
       <item value="Possessive" />
       <item value="Reluctant" />
       <item value="construction" />
@@ -38,7 +39,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="26" />
-        <entry key="ENGLISH" value="26" />
+        <entry key="ENGLISH" value="27" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
