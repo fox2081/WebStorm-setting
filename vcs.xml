@@ -130,9 +130,13 @@
           <option name="url" value="https://github.com/fox2081/git-test.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/vuetifyjs/vuetify.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Work\PRO\NN" />
+    <option name="cloneParentDir" value="C:\Work\PRO\PRIVATE" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
