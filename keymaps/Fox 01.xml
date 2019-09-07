@@ -1,7 +1,14 @@
 <keymap version="1" name="Fox 01" parent="$default">
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
+  <action id="CodeGlance.toggle" />
   <action id="ContextHelp" />
   <action id="Diff.ApplyLeftSide" />
   <action id="Diff.ApplyRightSide" />
+  <action id="Editor EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="shift ctrl g" />
+  </action>
   <action id="EditorPasteFromX11" />
   <action id="EditorToggleShowLineNumbers">
     <keyboard-shortcut first-keystroke="alt d" />
@@ -37,6 +44,9 @@
   </action>
   <action id="PreviousEditorTab" />
   <action id="PreviousOccurence" />
+  <action id="StringManipulation.SwitchStyleAction">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -45,10 +55,6 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
-  </action>
-  <action id="ToggleBookmark">
-    <keyboard-shortcut first-keystroke="f11" />
-    <mouse-shortcut keystroke="button2" />
   </action>
   <action id="com.eslint">
     <keyboard-shortcut first-keystroke="alt x" />
