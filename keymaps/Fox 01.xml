@@ -34,6 +34,9 @@
   <action id="GotoPreviousBookmark">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
   <action id="NextEditorTab" />
   <action id="NextOccurence" />
   <action id="NextSplitter">
@@ -55,8 +58,5 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
-  </action>
-  <action id="com.eslint">
-    <keyboard-shortcut first-keystroke="alt x" />
   </action>
 </keymap>
