@@ -22,7 +22,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="::Modify" value="⚡[Modify][] " description="🎨 :art: 改进结构和代码格式" toReformat="false" toShortenFQNames="true">
+  <template name="::Modify" value="🎨[Modify][] " description="🎨 :art: 改进结构和代码格式" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="CSS" value="false" />
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
