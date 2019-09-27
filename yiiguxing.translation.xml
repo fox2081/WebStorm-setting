@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="power Factor" />
+      <item value="reactive Power" />
+      <item value="active Power" />
+      <item value="apparent Electric Energy" />
+      <item value="reactive Electric Energy" />
       <item value="active Electric Energy" />
       <item value="gateway" />
       <item value="alarm" />
@@ -46,13 +51,11 @@
       <item value="pattern" />
       <item value="slot" />
       <item value="industry" />
-      <item value="product" />
-      <item value="create" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="49" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
