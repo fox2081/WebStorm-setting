@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="active Electric Energy" />
       <item value="gateway" />
       <item value="alarm" />
       <item value="有效" />
@@ -50,8 +51,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="37" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
