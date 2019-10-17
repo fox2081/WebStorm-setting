@@ -162,6 +162,10 @@
           <option name="url" value="https://github.com/fox2081/im-server.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@192.168.2.30:code/client/web/ax-framework-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Work\PRO\PRIVATE" />
