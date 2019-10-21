@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
   <action id="CodeGlance.toggle" />
+  <action id="CollapseDocComments">
+    <keyboard-shortcut first-keystroke="shift ctrl alt subtract" />
+  </action>
   <action id="ContextHelp" />
   <action id="Diff.ApplyLeftSide" />
   <action id="Diff.ApplyRightSide" />
@@ -12,6 +15,9 @@
   <action id="EditorPasteFromX11" />
   <action id="EditorToggleShowLineNumbers">
     <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="ExpandDocComments">
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
   <action id="ExportSettings">
     <keyboard-shortcut first-keystroke="shift ctrl alt e" />
