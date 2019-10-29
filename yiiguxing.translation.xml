@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="指定" />
       <item value="共5条" />
       <item value="Get Has Vehicle Text" />
       <item value="Temporary" />
@@ -50,7 +51,6 @@
       <item value="只有‘是’是被允许的" />
       <item value="validate Value" />
       <item value="产品型号" />
-      <item value="您可以在当前列表内定制产品型号" />
     </histories>
     <option name="languageScores">
       <map>
