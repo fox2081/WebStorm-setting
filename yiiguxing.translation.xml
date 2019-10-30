@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="获取下级列表失败" />
+      <item value="Tip" />
       <item value="指定" />
       <item value="共5条" />
       <item value="Get Has Vehicle Text" />
@@ -49,13 +51,11 @@
       <item value="是不被允许的" />
       <item value="‘是’是不被允许的" />
       <item value="只有‘是’是被允许的" />
-      <item value="validate Value" />
-      <item value="产品型号" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="54" />
-        <entry key="ENGLISH" value="54" />
+        <entry key="ENGLISH" value="55" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
