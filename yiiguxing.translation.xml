@@ -1,6 +1,34 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="获取下级列表失败" />
+      <item value="Tip" />
+      <item value="指定" />
+      <item value="共5条" />
+      <item value="Get Has Vehicle Text" />
+      <item value="Temporary" />
+      <item value="warning" />
+      <item value="调光时长" />
+      <item value="button" />
+      <item value="Stage" />
+      <item value="power Factor" />
+      <item value="reactive Power" />
+      <item value="active Power" />
+      <item value="apparent Electric Energy" />
+      <item value="reactive Electric Energy" />
+      <item value="active Electric Energy" />
+      <item value="gateway" />
+      <item value="alarm" />
+      <item value="有效" />
+      <item value="有效时间" />
+      <item value="电流" />
+      <item value="dimming" />
+      <item value="meta" />
+      <item value="Remain" />
+      <item value="策略" />
+      <item value="nav" />
+      <item value="总览" />
+      <item value="分栏" />
       <item value="部署" />
       <item value="Possessive" />
       <item value="Reluctant" />
@@ -23,23 +51,11 @@
       <item value="是不被允许的" />
       <item value="‘是’是不被允许的" />
       <item value="只有‘是’是被允许的" />
-      <item value="validate Value" />
-      <item value="产品型号" />
-      <item value="您可以在当前列表内定制产品型号" />
-      <item value="/* ------------------ 增加角色表单配置 ------------------ */&#10;const addRolePrefix = 'organization.details.userRole.user.dialog.edit';&#10;export const addRoleConfig: IFormConfig[] = [ { name: 'name', text: organizationLang.text(`${addRolePrefix}.name`), type: FormValueType.STRING, max: 128, required: true }, { name: 'desc', text: organizationLang.text(`${addRolePrefix}.desc`), type: FormValueType.STRING, min: 0, max: 512 }&#10;]; /* ------------------ 增加辖区表单配置 ------------------ */&#10;const addDirPrefix = 'organization.details.userRole.dir.dialog.edit';&#10;export const addDirConfig: IFormConfig[] = [ { name: 'name', text: organizationLang.text(`${addDirPrefix}.name`), type: FormValueType.STRING, max: 128, required: true }, { name: 'desc', text: organizationLang.text(`${addDirPrefix}.desc`), type: FormValueType.STRING, min: 0, max: 512 }&#10;];&#10;/* ------------------ 增加辖区表单配置 ------------------ */&#10;export const addProjectAuthConfig: IFormConfig[] = [{ name: 'proId', text: organizationLang.text('organization.orgauth.noticecheckrequire'), type: FormValueType.STRING, required: true }];" />
-      <item value="manufacturers" />
-      <item value="型号" />
-      <item value="pin" />
-      <item value="pattern" />
-      <item value="slot" />
-      <item value="industry" />
-      <item value="product" />
-      <item value="create" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="26" />
-        <entry key="ENGLISH" value="27" />
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="55" />
         <entry key="LATIN" value="1" />
       </map>
     </option>

@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
   <action id="CodeGlance.toggle" />
+  <action id="CollapseDocComments">
+    <keyboard-shortcut first-keystroke="shift ctrl alt subtract" />
+  </action>
   <action id="ContextHelp" />
   <action id="Diff.ApplyLeftSide" />
   <action id="Diff.ApplyRightSide" />
@@ -12,6 +15,9 @@
   <action id="EditorPasteFromX11" />
   <action id="EditorToggleShowLineNumbers">
     <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="ExpandDocComments">
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
   <action id="ExportSettings">
     <keyboard-shortcut first-keystroke="shift ctrl alt e" />
@@ -34,6 +40,9 @@
   <action id="GotoPreviousBookmark">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
   <action id="NextEditorTab" />
   <action id="NextOccurence" />
   <action id="NextSplitter">
@@ -55,8 +64,5 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
-  </action>
-  <action id="com.eslint">
-    <keyboard-shortcut first-keystroke="alt x" />
   </action>
 </keymap>

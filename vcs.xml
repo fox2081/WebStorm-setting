@@ -134,6 +134,50 @@
           <option name="url" value="https://github.com/vuetifyjs/vuetify.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@192.168.2.30:code/client/web/ax-ui.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.120.151:8083/jiangliangwei/fileupload.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@192.168.2.30:code/server/appserver/ticketapi.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@192.168.2.30:code/server/fileserver/fileserver.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@103.48.232.122:jiangliangwei/fileupload.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/fox2081/im-core.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/fox2081/im-server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@192.168.2.30:code/client/web/ax-framework-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/creativetimofficial/vue-paper-dashboard.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://w.tehui17.com/zdy/web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://w.tehui17.com" />
+          <option name="userName" value="huhq" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Work\PRO\PRIVATE" />
@@ -149,7 +193,7 @@
     </option>
   </component>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="C:/Work/PRO/NN/nn-light-web-temporary" />
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Documents/WeChat Files/fox2081/FileStorage/File/2019-10" />
     <option name="MANAGE_IGNORE_FILES" value="true" />
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
