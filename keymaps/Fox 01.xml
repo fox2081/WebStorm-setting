@@ -2,6 +2,11 @@
   <action id="$EditorTranslateAction">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="shift alt 9" />
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
   <action id="CodeGlance.toggle" />
   <action id="CollapseDocComments">
     <keyboard-shortcut first-keystroke="shift ctrl alt subtract" />
