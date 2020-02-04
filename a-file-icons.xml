@@ -2,5 +2,6 @@
   <component name="AtomFileIconsConfig">
     <option name="enabledUIIcons" value="false" />
     <option name="monochromeColor" value="546e7a" />
+    <option name="enabledPsiIcons" value="false" />
   </component>
 </application>
