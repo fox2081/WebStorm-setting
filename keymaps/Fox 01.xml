@@ -1,4 +1,10 @@
 <keymap version="1" name="Fox 01" parent="$default">
+  <action id="&lt;anonymous-group-10&gt;">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="&lt;anonymous-group-11&gt;">
+    <keyboard-shortcut first-keystroke="alt e" />
+  </action>
   <action id="ContextHelp" />
   <action id="EditorPasteFromX11" />
   <action id="EditorToggleShowLineNumbers">
@@ -39,6 +45,9 @@
   <action id="StringManipulation.SwitchStyleAction">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
+  <action id="StringManipulation.SwitchStyleAction.Reverse">
+    <keyboard-shortcut first-keystroke="shift ctrl comma" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -56,6 +65,6 @@
   </action>
   <action id="context.clear" />
   <action id="osmedile.intellij.stringmanip.SwitchCasePopup">
-    <keyboard-shortcut first-keystroke="shift ctrl comma" />
+    <keyboard-shortcut first-keystroke="ctrl alt comma" />
   </action>
 </keymap>
