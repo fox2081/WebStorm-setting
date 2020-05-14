@@ -178,9 +178,13 @@
           <option name="url" value="http://w.tehui17.com" />
           <option name="userName" value="huhq" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Esri/jsapi-resources.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Work\PRO\PRIVATE" />
+    <option name="cloneParentDir" value="C:\Work\PRO\GITHUB" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
