@@ -182,9 +182,13 @@
           <option name="url" value="https://github.com/Esri/jsapi-resources.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@192.168.2.30:nncs/front-end/html/vue/app-main/app-main-core/app-main-core-project.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Work\PRO\GITHUB" />
+    <option name="cloneParentDir" value="C:\Work\PRO\VUE\app-main\app-main-core" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
