@@ -31,6 +31,9 @@
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="shift alt end" />
+  </action>
   <action id="MoveTabDown">
     <keyboard-shortcut first-keystroke="shift ctrl alt home" />
   </action>
