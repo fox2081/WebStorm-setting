@@ -31,6 +31,12 @@
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="shift ctrl alt home" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="shift ctrl alt end" />
+  </action>
   <action id="NextOccurence" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="f1" />
