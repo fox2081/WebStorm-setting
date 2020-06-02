@@ -52,6 +52,9 @@
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="shift alt x" />
   </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
   <action id="StringManipulation.SwitchStyleAction">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
