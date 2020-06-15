@@ -5,6 +5,9 @@
   <action id="&lt;anonymous-group-11&gt;">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
+  <action id="ConsoleView.ShowAsJsonAction">
+    <keyboard-shortcut first-keystroke="shift alt o" />
+  </action>
   <action id="ContextHelp" />
   <action id="EditorPasteFromX11" />
   <action id="EditorToggleShowLineNumbers">
