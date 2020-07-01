@@ -1,13 +1,4 @@
 <keymap version="1" name="Fox 01" parent="$default">
-  <action id="&lt;anonymous-group-10&gt;">
-    <keyboard-shortcut first-keystroke="alt r" />
-  </action>
-  <action id="&lt;anonymous-group-11&gt;">
-    <keyboard-shortcut first-keystroke="alt e" />
-  </action>
-  <action id="ConsoleView.ShowAsJsonAction">
-    <keyboard-shortcut first-keystroke="shift alt o" />
-  </action>
   <action id="ContextHelp" />
   <action id="EditorPasteFromX11" />
   <action id="EditorToggleShowLineNumbers">
@@ -34,19 +25,9 @@
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
-  <action id="MoveEditorToOppositeTabGroup">
-    <keyboard-shortcut first-keystroke="shift alt end" />
-  </action>
-  <action id="MoveTabDown">
-    <keyboard-shortcut first-keystroke="shift ctrl alt home" />
-  </action>
-  <action id="MoveTabRight">
-    <keyboard-shortcut first-keystroke="shift ctrl alt end" />
-  </action>
   <action id="NextOccurence" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="f1" />
-    <keyboard-shortcut first-keystroke="ctrl alt end" />
   </action>
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="shift f1" />
@@ -55,14 +36,8 @@
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="shift alt x" />
   </action>
-  <action id="RevealIn">
-    <keyboard-shortcut first-keystroke="f10" />
-  </action>
   <action id="StringManipulation.SwitchStyleAction">
     <keyboard-shortcut first-keystroke="ctrl comma" />
-  </action>
-  <action id="StringManipulation.SwitchStyleAction.Reverse">
-    <keyboard-shortcut first-keystroke="shift ctrl comma" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
@@ -79,14 +54,8 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
-  <action id="TsLintFileFixAction">
-    <keyboard-shortcut first-keystroke="ctrl alt x" />
-  </action>
-  <action id="XPathView.Actions.Evaluate" />
-  <action id="XPathView.Actions.FindByExpression" />
-  <action id="XPathView.Actions.ShowPath" />
   <action id="context.clear" />
   <action id="osmedile.intellij.stringmanip.SwitchCasePopup">
-    <keyboard-shortcut first-keystroke="ctrl alt comma" />
+    <keyboard-shortcut first-keystroke="shift ctrl comma" />
   </action>
 </keymap>
