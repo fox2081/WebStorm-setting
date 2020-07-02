@@ -2,5 +2,6 @@
   <component name="AtomFileIconsConfig">
     <option name="isEnabledUIIcons" value="false" />
     <option name="monochromeColor" value="546e7a" />
+    <option name="accentColor" value="b8cfe5" />
   </component>
 </application>
