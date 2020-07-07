@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="received" />
+      <item value="resevied" />
       <item value="Web Socket" />
       <item value="socket" />
       <item value="transform" />
@@ -15,8 +17,9 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="10" />
+        <entry key="ENGLISH" value="11" />
         <entry key="MALAYALAM" value="1" />
+        <entry key="SWEDISH" value="1" />
       </map>
     </option>
   </component>
