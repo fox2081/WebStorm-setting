@@ -198,9 +198,13 @@
           <option name="url" value="http://fox2081.top:30000/root/temai.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://sxbastudio.com/base/app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Work\PRO\Private" />
+    <option name="cloneParentDir" value="C:\Work\Pro\Private\owlreader" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
