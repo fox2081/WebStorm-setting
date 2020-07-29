@@ -13,6 +13,9 @@
   <action id="EditorToggleShowLineNumbers">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="EmojiAndSymbols">
+    <keyboard-shortcut first-keystroke="ctrl alt semicolon" />
+  </action>
   <action id="ExternalJavaDoc" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl f12" />
