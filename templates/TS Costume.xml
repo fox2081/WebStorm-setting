@@ -1,0 +1,9 @@
+<templateSet group="TS Costume">
+  <template name="Vue TS Component" value="&lt;template&gt;&#10;  &lt;div class=&quot;&quot;&gt;&lt;/div&gt;&#10;&lt;/template&gt;&#10;&#10;&lt;script lang=&quot;ts&quot;&gt;&#10;import { Component, Vue } from 'vue-property-decorator';&#10;&#10;@Component({&#10;  components: {},&#10;})&#10;export default class $name$ extends Vue {&#10;&#10;}&#10;&lt;/script&gt;&#10;" description="Costume TS Vue components" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="vue" defaultValue="NewComponent" alwaysStopAt="false" />
+    <context>
+      <option name="TypeScript" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+</templateSet>

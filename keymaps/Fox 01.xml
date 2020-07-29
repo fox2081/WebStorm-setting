@@ -13,7 +13,14 @@
   <action id="EditorToggleShowLineNumbers">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="EmojiAndSymbols">
+    <keyboard-shortcut first-keystroke="ctrl alt semicolon" />
+  </action>
   <action id="ExternalJavaDoc" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="shift alt e" />
+  </action>
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
     <keyboard-shortcut first-keystroke="shift ctrl alt f" />
