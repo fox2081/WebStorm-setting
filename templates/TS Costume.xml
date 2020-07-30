@@ -6,4 +6,11 @@
       <option name="Vue" value="true" />
     </context>
   </template>
+  <template name="exhaust never" value="const exhaustiveCheck: never = $val$" description="穷尽判断" toReformat="false" toShortenFQNames="true">
+    <variable name="val" expression="" defaultValue="val" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
 </templateSet>
