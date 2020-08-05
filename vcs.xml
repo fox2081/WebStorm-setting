@@ -218,9 +218,17 @@
           <option name="url" value="git@192.168.2.30:nncs/front-end/html/vue/app-config-eslint-ts.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@192.168.2.30:nncs/front-end/html/vue/app-demo/app-demo-modules-v2.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@192.168.2.30:nncs/front-end/html/vue/app-core/app-core-components/app-core-components-v2.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Work\PRO\VUE" />
+    <option name="cloneParentDir" value="C:\Work\PRO\VUE-v2" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
