@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="主系统说明.md" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="center" type="TypeScript" />
       <mapping ext="ds" type="TypeScript" />
     </extensionMap>
   </component>
