@@ -5,6 +5,7 @@
     <option name="defaultProjectDirectory" value="C:\Work\PRO" />
     <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="reopenLastProject" value="false" />
+    <option name="autoSaveFiles" value="false" />
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="StatusBar">
