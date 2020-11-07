@@ -15,5 +15,6 @@
     <mask>*.cjs</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
+    <mask>*.ts,*.js</mask>
   </component>
 </application>
