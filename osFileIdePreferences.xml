@@ -1,0 +1,16 @@
+<application>
+  <component name="OSFileAssociationPreferences">
+    <option name="fileTypeNames">
+      <list>
+        <option value="GitIgnore file" />
+        <option value="CSS" />
+        <option value="ECMAScript 6" />
+        <option value="JavaScript" />
+        <option value="TypeScript" />
+        <option value="TypeScript JSX" />
+        <option value="Vue.js" />
+      </list>
+    </option>
+    <option name="ideLocationHash" value="7A254F201BBA0C65947CAE69D011F5BA" />
+  </component>
+</application>
