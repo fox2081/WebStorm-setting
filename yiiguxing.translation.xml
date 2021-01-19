@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="current Detail" />
       <item value="System Module" />
       <item value="Radio" />
       <item value="raw Error" />
@@ -30,8 +31,7 @@
       </map>
     </option>
   </component>
-  <component name="Settings">
-    <option name="ignoreRegExp" value="" />
-    <option name="translateDocumentation" value="false" />
+  <component name="Cache">
+    <option name="lastTrimTime" value="1610185045994" />
   </component>
 </application>
