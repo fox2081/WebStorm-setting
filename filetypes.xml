@@ -1,10 +1,12 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="version" type="AUTO_DETECTED" />
       <mapping pattern="主系统说明.md" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="message" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
+      <mapping ext="tp" type="PLAIN_TEXT" />
       <mapping pattern="center" type="TypeScript" />
       <mapping ext="ds" type="TypeScript" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
