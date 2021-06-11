@@ -362,6 +362,10 @@
           <option name="url" value="ssh://git@183.3.129.44:31016/nncs/front-end/html/vue/app-core/app-core-visual/app-core-visual.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@183.3.129.44:31016/nncs/front-end/html/vue/app-core/app-core-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Work\Pro\NN\@ax" />
