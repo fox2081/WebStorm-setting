@@ -4,8 +4,8 @@
       <mapping pattern="version" type="AUTO_DETECTED" />
       <mapping pattern="123" type="AUTO_DETECTED" />
       <mapping pattern="message" type="PLAIN_TEXT" />
-      <mapping pattern="主系统说明.md" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="主系统说明.md" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="prx" type="PLAIN_TEXT" />
       <mapping ext="tp" type="PLAIN_TEXT" />
