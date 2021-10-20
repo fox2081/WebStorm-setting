@@ -38,6 +38,7 @@
   <action id="FixDocComment">
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
   </action>
+  <action id="Github.PullRequest.Diff.Comment.Create" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl b" />
     <mouse-shortcut keystroke="control button1" />
