@@ -66,6 +66,9 @@
     <keyboard-shortcut first-keystroke="f1" />
     <keyboard-shortcut first-keystroke="ctrl alt end" />
   </action>
+  <action id="PinActiveTabToggle">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="shift f1" />
   </action>
@@ -104,6 +107,7 @@
   <action id="XPathView.Actions.FindByExpression" />
   <action id="XPathView.Actions.ShowPath" />
   <action id="context.clear" />
+  <action id="context.load" />
   <action id="osmedile.intellij.stringmanip.SwitchCasePopup">
     <keyboard-shortcut first-keystroke="ctrl alt comma" />
   </action>
