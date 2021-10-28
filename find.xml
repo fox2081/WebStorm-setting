@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value=".npmrc,.yarnrc,package.json" />
     <mask>*.ts,*.js</mask>
     <mask>*.vue</mask>
     <mask>*.xml</mask>
@@ -18,5 +19,7 @@
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
+    <mask>.npmrc,.yarnrc</mask>
+    <mask>.npmrc,.yarnrc,package.json</mask>
   </component>
 </application>
