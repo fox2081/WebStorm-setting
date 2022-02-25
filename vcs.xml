@@ -414,9 +414,13 @@
           <option name="url" value="http://www.fox2081.top:30000/fe/nn/v2/app-main/app-main-system.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://www.fox2081.top:30000/fe/lnk/html/vue/app/app-main/system-support.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Work\Pro\tmp" />
+    <option name="cloneParentDir" value="C:\Work\Pro\JXZ\vue\app\app-main" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
