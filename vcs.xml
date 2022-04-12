@@ -426,6 +426,10 @@
           <option name="url" value="https://gits.iot-city.com/framework/axiot-fe/axiot-framework.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gits.iot-city.com/lighting/previous/smartPoleWeb.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Work\Pro\DJ" />
