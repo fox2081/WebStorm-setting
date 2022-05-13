@@ -442,9 +442,13 @@
           <option name="url" value="ssh://git@www.fox2081.top:30001/fe/lnk/html/vue/app/app-core/core-camera.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://www.fox2081.top:30000/fe/fun/java2typescript.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Pro\Fox2081" />
+    <option name="cloneParentDir" value="C:\Work\Pro\Private" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
