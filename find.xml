@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.ts,*.js</mask>
-    <mask>*.vue</mask>
     <mask>.npmrc,.yarnrc</mask>
     <mask>.npmrc,.yarnrc,package.json</mask>
     <mask>tsconfig.json</mask>
@@ -21,5 +20,6 @@
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
