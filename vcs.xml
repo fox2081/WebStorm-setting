@@ -458,9 +458,13 @@
           <option name="url" value="git@w.gdy.io:outsourcing/facebook-web.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://www.fox2081.top:30000/fe/fun/tailwind-decompile.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Work\Pro\DY" />
+    <option name="cloneParentDir" value="C:\Work\Pro\Private" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
