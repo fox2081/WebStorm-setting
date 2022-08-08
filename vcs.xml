@@ -486,9 +486,17 @@
           <option name="url" value="git@github.com:element-plus/element-plus-vite-starter.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:build-admin/buildadmin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:honghuangdc/soybean-admin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Work\PRO\GitHub" />
+    <option name="cloneParentDir" value="C:\Work\Pro\GitHub" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
