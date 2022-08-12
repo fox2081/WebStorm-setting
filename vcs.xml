@@ -506,9 +506,17 @@
           <option name="url" value="git@gitlab.com:kushimai/work-summary.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:tusen-ai/naive-ui.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:element-plus/element-plus.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Work\Pro\KuShim" />
+    <option name="cloneParentDir" value="C:\Work\Pro\GitHub" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
