@@ -518,6 +518,10 @@
           <option name="url" value="ssh://git@www.fox2081.top:30001/fe/lnk/html/vue/app/app-core/core-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@www.fox2081.top:30001/fe/lnk/html/vue/app/app-core/core-components.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Work\Pro\Private" />
