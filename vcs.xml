@@ -522,9 +522,17 @@
           <option name="url" value="ssh://git@www.fox2081.top:30001/fe/lnk/html/vue/app/app-core/core-components.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:vueuse/vueuse.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.com:kushimai/developer/kushim-manager/kushim-user-authority-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Work\Pro\Private" />
+    <option name="cloneParentDir" value="C:\Work\Pro\KuShim" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
