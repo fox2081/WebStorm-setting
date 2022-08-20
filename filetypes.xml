@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="type" type="AUTO_DETECTED" />
       <mapping pattern="请求数据样例" type="AUTO_DETECTED" />
+      <mapping pattern="test" type="AUTO_DETECTED" />
       <mapping pattern="version" type="AUTO_DETECTED" />
       <mapping pattern="123" type="AUTO_DETECTED" />
       <mapping pattern=".bablerc" type="PLAIN_TEXT" />
