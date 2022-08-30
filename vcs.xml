@@ -534,9 +534,13 @@
           <option name="url" value="git@gitlab.com:kushimai/developer/kushim-tagging/tagging_web.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.com:kushimai/developer/kushim-purchase-order/kushim-purchase-order-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Work\Pro\Dayang" />
+    <option name="cloneParentDir" value="C:\Work\Pro\KuShim" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
