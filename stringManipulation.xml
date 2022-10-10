@@ -2,7 +2,7 @@
   <component name="StringManipulationState">
     <option name="lastAction">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.encoding.URLEncodeAction" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.encoding.URLDecodeAction" />
       </UniversalActionModel>
     </option>
     <option name="sortSettingsMap">
