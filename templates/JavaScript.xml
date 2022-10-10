@@ -1,0 +1,9 @@
+<templateSet group="JavaScript">
+  <template name="af" value="($PARAMS$) =&gt; {&#10;    $END$&#10;}" description="Arrow function" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
