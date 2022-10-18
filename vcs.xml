@@ -562,6 +562,10 @@
           <option name="url" value="git@gitlab.com:kushimai/developer/kushim-smart-announcement/kushim-smart-announcement-web.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.com:kushimai/developer/kushim-smart-announcement/kushim-smart-announcement-document.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Work\Pro\KuShim" />
