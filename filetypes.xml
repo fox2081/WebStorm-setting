@@ -10,6 +10,7 @@
       <mapping pattern=".yarnrc" type="PLAIN_TEXT" />
       <mapping pattern=".bablerc" type="PLAIN_TEXT" />
       <mapping pattern="message" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="主系统说明.md" type="PLAIN_TEXT" />
       <mapping ext="cht" type="PLAIN_TEXT" />
