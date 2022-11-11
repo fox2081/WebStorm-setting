@@ -614,6 +614,14 @@
           <option name="url" value="https://gitlab.com/kushimai/developer/kushim-web-workspace/kushim-web-workspace-base.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/kushimai/developer/kushim-smart-contract/smart-contract-manager-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/kushimai/developer/kushim-smart-contract/kushim-smart-contract-document.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Work\Pro\KuShim" />
