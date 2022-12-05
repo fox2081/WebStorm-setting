@@ -1,4 +1,7 @@
 <application>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1670202969812" />
+  </component>
   <component name="Translation.Cache">
     <option name="lastTrimTime" value="1669977663541" />
   </component>
