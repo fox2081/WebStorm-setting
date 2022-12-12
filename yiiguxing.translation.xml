@@ -5,4 +5,7 @@
   <component name="Translation.Cache">
     <option name="lastTrimTime" value="1670566972874" />
   </component>
+  <component name="Translation.Settings">
+    <option name="translator" value="MICROSOFT" />
+  </component>
 </application>
