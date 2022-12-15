@@ -550,6 +550,22 @@
           <option name="url" value="git@gitlab.com:kushimai/developer/kushim-purchase-order/kushim-purchase-order-document.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/kushimai/developer/kushim-smart-announcement/kushim-announcement-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.com" />
+          <option name="userName" value="fox2081@foxmail.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.com:kushimai/developer/kushim-smart-contract/smart-contract-manager-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/kushimai/developer/kushim-smart-contract/smart-contract-manager-web.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Work\Pro\KuShim" />
