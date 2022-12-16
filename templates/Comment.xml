@@ -1,5 +1,5 @@
 <templateSet group="Comment">
-  <template name="Comment Region HTML" value="&lt;!--region $DESC$--&gt;&#10;$SELECTION$&#10;&lt;!--endregion--&gt;" description="Surround with HTML region" toReformat="false" toShortenFQNames="true">
+  <template name="Comment Region HTML" value="&lt;!--#region $DESC$--&gt;&#10;$SELECTION$&#10;&lt;!--#endregion--&gt;" description="Surround with HTML region" toReformat="false" toShortenFQNames="true">
     <variable name="DESC" expression="firstWord(DESC)" defaultValue="''" alwaysStopAt="true" />
     <context>
       <option name="CSS" value="false" />
