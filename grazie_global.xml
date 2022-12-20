@@ -1,5 +1,20 @@
 <application>
   <component name="GraziConfig">
+    <option name="enabledLanguages">
+      <set>
+        <option value="English (US)" />
+        <option value="Chinese" />
+      </set>
+    </option>
+    <option name="suppressingContext">
+      <SuppressingContext>
+        <option name="suppressed">
+          <set>
+            <option value="auto load" />
+          </set>
+        </option>
+      </SuppressingContext>
+    </option>
     <option name="detectionContext">
       <State>
         <option name="disabled">
