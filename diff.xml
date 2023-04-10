@@ -47,6 +47,11 @@
           <option name="EXPAND_BY_DEFAULT" value="false" />
         </PlaceSettings>
       </entry>
+      <entry key="ChangesToolWindowPreview">
+        <PlaceSettings>
+          <option name="EXPAND_BY_DEFAULT" value="false" />
+        </PlaceSettings>
+      </entry>
       <entry key="Default">
         <PlaceSettings>
           <option name="EXPAND_BY_DEFAULT" value="false" />
