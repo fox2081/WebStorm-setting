@@ -21,7 +21,7 @@
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="Markdown.MarkdownTableInlayProviderSettingsKey" />
+    <option name="lastViewedProviderKeyId" value=".inheritors" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme|hack)\b.*" />
