@@ -100,6 +100,9 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="ToggleRenderedDocPresentationForAll">
+    <keyboard-shortcut first-keystroke="shift ctrl alt q" />
+  </action>
   <action id="TsLintFileFixAction">
     <keyboard-shortcut first-keystroke="ctrl alt x" />
   </action>
