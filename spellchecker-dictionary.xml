@@ -8,6 +8,7 @@
       <w>autofilter</w>
       <w>backstaged</w>
       <w>ctype</w>
+      <w>editorjs</w>
       <w>forcesave</w>
       <w>fuhebao</w>
       <w>kushim</w>
@@ -21,6 +22,7 @@
       <w>pinia</w>
       <w>proced</w>
       <w>qlbt</w>
+      <w>quilljs</w>
       <w>safelist</w>
       <w>semibold</w>
       <w>supabase</w>
