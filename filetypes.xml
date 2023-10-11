@@ -22,6 +22,8 @@
       <mapping ext="prx" type="PLAIN_TEXT" />
       <mapping pattern="center" type="TypeScript" />
       <mapping ext="ds" type="TypeScript" />
+      <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="pdf" approved="true" type="Native" />
     </extensionMap>
   </component>
