@@ -1,0 +1,31 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="type" type="AUTO_DETECTED" />
+      <mapping pattern="KTemplateUpdate" type="AUTO_DETECTED" />
+      <mapping pattern="请求数据样例" type="AUTO_DETECTED" />
+      <mapping pattern="test" type="AUTO_DETECTED" />
+      <mapping pattern="version" type="AUTO_DETECTED" />
+      <mapping pattern="123" type="AUTO_DETECTED" />
+      <mapping pattern=".yarnrc" type="PLAIN_TEXT" />
+      <mapping pattern=".bablerc" type="PLAIN_TEXT" />
+      <mapping pattern="message" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="主系统说明.md" type="PLAIN_TEXT" />
+      <mapping ext="java" type="PLAIN_TEXT" />
+      <mapping ext="tp" type="PLAIN_TEXT" />
+      <mapping ext="cht" type="PLAIN_TEXT" />
+      <mapping ext="prx" type="PLAIN_TEXT" />
+      <mapping ext="lottie" type="PLAIN_TEXT" />
+      <mapping ext="map" type="PLAIN_TEXT" />
+      <mapping ext="url" type="PLAIN_TEXT" />
+      <mapping ext="tpl" type="PLAIN_TEXT" />
+      <mapping pattern="center" type="TypeScript" />
+      <mapping ext="ds" type="TypeScript" />
+      <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="pdf" approved="true" type="Native" />
+    </extensionMap>
+  </component>
+</application>
