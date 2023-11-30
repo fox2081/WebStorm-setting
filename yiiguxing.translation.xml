@@ -3,6 +3,14 @@
     <option name="lastTrimTime" value="1670202969812" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1700797852945" />
+    <option name="lastTrimTime" value="1701312325512" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20231130001896335" />
+      </app-key>
+    </option>
+    <option name="primaryLanguage" value="CHINESE" />
   </component>
 </application>
