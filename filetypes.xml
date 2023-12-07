@@ -7,12 +7,12 @@
       <mapping pattern="test" type="AUTO_DETECTED" />
       <mapping pattern="version" type="AUTO_DETECTED" />
       <mapping pattern="123" type="AUTO_DETECTED" />
-      <mapping pattern=".yarnrc" type="PLAIN_TEXT" />
-      <mapping pattern=".bablerc" type="PLAIN_TEXT" />
-      <mapping pattern="message" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="主系统说明.md" type="PLAIN_TEXT" />
+      <mapping pattern=".yarnrc" type="PLAIN_TEXT" />
+      <mapping pattern=".bablerc" type="PLAIN_TEXT" />
+      <mapping pattern="message" type="PLAIN_TEXT" />
       <mapping ext="java" type="PLAIN_TEXT" />
       <mapping ext="tp" type="PLAIN_TEXT" />
       <mapping ext="cht" type="PLAIN_TEXT" />
