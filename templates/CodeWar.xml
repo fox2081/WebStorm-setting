@@ -2,6 +2,7 @@
   <template name="&lt;codewar&gt;" value="/*&#10;* &#10;* https://www.codewars.com/kata/xxx/javascript&#10;* */&#10;&#10;function foo (args) {&#10;  // return something&#10;}&#10;&#10;exports.foo = foo&#10;" shortcut="SPACE" description="codewar模板" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
     </context>
   </template>
 </templateSet>
