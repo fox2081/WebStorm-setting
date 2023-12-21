@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="RunJsbtTask">
+        <abbreviation name="Alt+Alt" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
