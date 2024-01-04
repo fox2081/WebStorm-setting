@@ -7,6 +7,7 @@
       <mapping pattern="test" type="AUTO_DETECTED" />
       <mapping pattern="version" type="AUTO_DETECTED" />
       <mapping pattern="123" type="AUTO_DETECTED" />
+      <mapping pattern=".emptyFolderPlaceholder" type="PLAIN_TEXT" />
       <mapping pattern=".yarnrc" type="PLAIN_TEXT" />
       <mapping pattern=".bablerc" type="PLAIN_TEXT" />
       <mapping pattern="message" type="PLAIN_TEXT" />
