@@ -8,5 +8,13 @@
       <jdbc-url>jdbc:postgresql://192.168.3.57:5432/postgres</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="contract@192.168.3.23" uuid="92f93dda-e2e2-413c-8cea-6c7aa345ad9d">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>合同项目数据库（开发）</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://192.168.3.23:5432/contract</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </application>
