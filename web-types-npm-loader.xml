@@ -1,5 +1,5 @@
 <application>
-  <component name="WebTypesNpmLoader" timestamp="1715221863658">
+  <component name="WebTypesNpmLoader" timestamp="1716170417112">
     <package name="@web-types/bootstrap-vue">
       <version value="2.0.0-rc.20.2" url="https://registry.npmjs.org/@web-types/bootstrap-vue/-/bootstrap-vue-2.0.0-rc.20.2.tgz" />
       <version value="2.0.0-1" url="https://registry.npmjs.org/@web-types/bootstrap-vue/-/bootstrap-vue-2.0.0-1.tgz" />
