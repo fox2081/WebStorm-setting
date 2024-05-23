@@ -1,8 +1,8 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="fox2081.top" id="1e598513-22dd-42a1-b110-f47236c256ba" port="2222" nameFormat="DESCRIPTIVE" username="admin" />
-      <sshConfig host="192.168.3.23" id="b62486a7-9baf-41df-b9bb-2810752e511f" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="fox2081.top" id="1e598513-22dd-42a1-b110-f47236c256ba" port="2222" nameFormat="DESCRIPTIVE" username="admin" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="192.168.3.23" id="b62486a7-9baf-41df-b9bb-2810752e511f" port="22" nameFormat="DESCRIPTIVE" username="pc" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
