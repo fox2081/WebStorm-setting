@@ -1,5 +1,6 @@
 <application>
   <component name="me.rerere.unocssintellij.settings.UnocssSettingsState">
-    <option name="enable" value="false" />
+    <option name="maxItems" value="10" />
+    <option name="remToPxPreview" value="false" />
   </component>
 </application>

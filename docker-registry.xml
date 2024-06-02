@@ -1,0 +1,10 @@
+<application>
+  <component name="DockerRegistry">
+    <DockerRegistry>
+      <option name="address" value="192.168.3.57:5050" />
+      <option name="name" value="New Docker Registry" />
+      <option name="registryProviderId" value="DockerV2RegistryProvider" />
+      <option name="username" value="" />
+    </DockerRegistry>
+  </component>
+</application>
