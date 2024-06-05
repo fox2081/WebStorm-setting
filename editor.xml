@@ -25,6 +25,11 @@
     <option name="AUTOREPARSE_DELAY" value="0" />
   </component>
   <component name="DeclarativeInlayHintsSettings">
+    <option name="enabledOptions">
+      <map>
+        <entry key="ts.type.hints#function.returns" value="true" />
+      </map>
+    </option>
     <option name="providerIdToEnabled">
       <map>
         <entry key="js.chain.hints" value="true" />
