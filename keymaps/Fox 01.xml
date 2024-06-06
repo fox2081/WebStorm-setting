@@ -116,6 +116,10 @@
   <action id="XPathView.Actions.Evaluate" />
   <action id="XPathView.Actions.FindByExpression" />
   <action id="XPathView.Actions.ShowPath" />
+  <action id="com.codeium.intellij.command.CommandAction">
+    <keyboard-shortcut first-keystroke="meta i" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
+  </action>
   <action id="context.clear" />
   <action id="context.load" />
   <action id="osmedile.intellij.stringmanip.SwitchCasePopup">
