@@ -14,14 +14,14 @@
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="主系统说明.md" type="PLAIN_TEXT" />
-      <mapping ext="lottie" type="PLAIN_TEXT" />
       <mapping ext="java" type="PLAIN_TEXT" />
-      <mapping ext="map" type="PLAIN_TEXT" />
-      <mapping ext="url" type="PLAIN_TEXT" />
-      <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="tp" type="PLAIN_TEXT" />
       <mapping ext="cht" type="PLAIN_TEXT" />
       <mapping ext="prx" type="PLAIN_TEXT" />
+      <mapping ext="lottie" type="PLAIN_TEXT" />
+      <mapping ext="map" type="PLAIN_TEXT" />
+      <mapping ext="url" type="PLAIN_TEXT" />
+      <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping pattern="center" type="TypeScript" />
       <mapping ext="ds" type="TypeScript" />
       <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
