@@ -6,6 +6,7 @@
       <sshConfig host="192.168.3.23" id="530ab4e7-7952-442e-aa16-8ffad9e855c3" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="pc@192.168.3.23:22" nameFormat="CUSTOM" username="pc" useOpenSSHConfig="true">
         <option name="customName" value="pc@192.168.3.23:22" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" host="192.168.3.77" id="c38c72a2-b118-4b97-8d73-706b68dd7ce2" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
