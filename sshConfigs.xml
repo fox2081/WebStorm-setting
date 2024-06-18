@@ -7,7 +7,7 @@
         <option name="customName" value="pc@192.168.3.23:22" />
       </sshConfig>
       <sshConfig authType="PASSWORD" host="192.168.3.77" id="c38c72a2-b118-4b97-8d73-706b68dd7ce2" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
-      <sshConfig authType="PASSWORD" host="192.168.3.3" id="7a47b867-53bd-456b-ae7a-d43be299031b" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+      <sshConfig host="192.168.3.3" id="7a47b867-53bd-456b-ae7a-d43be299031b" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
