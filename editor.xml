@@ -51,6 +51,9 @@
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="CSS.unocss.colorPreview.hints" />
   </component>
+  <component name="InlineCompletionOnboarding">
+    <option name="onboardingFinished" value="true" />
+  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme|hack)\b.*" />
   </component>
