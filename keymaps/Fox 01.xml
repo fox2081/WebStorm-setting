@@ -87,6 +87,10 @@
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="shift alt x" />
   </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt f6" />
+  </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="f10" />
   </action>
