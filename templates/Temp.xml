@@ -1,0 +1,3 @@
+<templateSet group="Temp">
+  <template name="123" value="213123123" description="abc" toReformat="false" toShortenFQNames="true" />
+</templateSet>

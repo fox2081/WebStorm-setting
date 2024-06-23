@@ -1,4 +1,8 @@
 <keymap version="1" name="Fox 01" parent="$default">
+  <action id="$TranslateAndReplaceAction">
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt x" />
+  </action>
   <action id="&lt;anonymous-group-10&gt;">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
@@ -14,6 +18,9 @@
     <keyboard-shortcut first-keystroke="shift alt o" />
   </action>
   <action id="ContextHelp" />
+  <action id="Editor TranslateAndReplaceAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt x" />
+  </action>
   <action id="EditorPasteFromX11" />
   <action id="EditorToggleShowLineNumbers">
     <keyboard-shortcut first-keystroke="alt d" />
@@ -76,6 +83,7 @@
     <keyboard-shortcut first-keystroke="shift f1" />
   </action>
   <action id="PreviousOccurence" />
+  <action id="PublishGroup.UploadTo" />
   <action id="ReformatWithPrettierAction">
     <keyboard-shortcut first-keystroke="shift alt x" />
   </action>
@@ -116,6 +124,10 @@
   <action id="XPathView.Actions.Evaluate" />
   <action id="XPathView.Actions.FindByExpression" />
   <action id="XPathView.Actions.ShowPath" />
+  <action id="com.codeium.intellij.command.CommandAction">
+    <keyboard-shortcut first-keystroke="meta i" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt p" />
+  </action>
   <action id="context.clear" />
   <action id="context.load" />
   <action id="osmedile.intellij.stringmanip.SwitchCasePopup">
