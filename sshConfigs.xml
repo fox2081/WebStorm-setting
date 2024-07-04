@@ -2,12 +2,14 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig host="fox2081.top" id="1e598513-22dd-42a1-b110-f47236c256ba" keyPath="$USER_HOME$/.ssh/id_rsa" port="4422" nameFormat="DESCRIPTIVE" username="admin" useOpenSSHConfig="true" />
-      <sshConfig host="192.168.3.23" id="b62486a7-9baf-41df-b9bb-2810752e511f" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
       <sshConfig host="192.168.3.23" id="530ab4e7-7952-442e-aa16-8ffad9e855c3" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="pc@192.168.3.23:22" nameFormat="CUSTOM" username="pc" useOpenSSHConfig="true">
         <option name="customName" value="pc@192.168.3.23:22" />
       </sshConfig>
-      <sshConfig host="192.168.3.77" id="c38c72a2-b118-4b97-8d73-706b68dd7ce2" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
       <sshConfig host="192.168.3.3" id="7a47b867-53bd-456b-ae7a-d43be299031b" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+      <sshConfig host="192.168.3.23" id="b62486a7-9baf-41df-b9bb-2810752e511f" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+      <sshConfig host="192.168.3.77" id="c38c72a2-b118-4b97-8d73-706b68dd7ce2" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+      <sshConfig host="192.168.3.38" id="15cc84a0-5f44-464f-8c84-cdec17e51120" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="asus" useOpenSSHConfig="true" />
+      <sshConfig host="192.168.3.38" id="f6a08c77-8fa9-4514-a930-88bd8770bebe" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
