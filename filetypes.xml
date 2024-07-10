@@ -18,6 +18,7 @@
       <mapping ext="tp" type="PLAIN_TEXT" />
       <mapping ext="cht" type="PLAIN_TEXT" />
       <mapping ext="prx" type="PLAIN_TEXT" />
+      <mapping ext="pdf" type="PLAIN_TEXT" />
       <mapping ext="lottie" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
       <mapping ext="url" type="PLAIN_TEXT" />
