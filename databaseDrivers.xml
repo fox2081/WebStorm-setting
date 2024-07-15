@@ -1,5 +1,8 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="mariadb">
+      <artifact id="MariaDB Connector J" name="MariaDB Connector J" use="true" version="3.3.3" />
+    </driver>
     <driver id="mongo">
       <artifact id="MongoDB" name="MongoDB" use="true" version="1.18" />
     </driver>
