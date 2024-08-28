@@ -6,6 +6,10 @@
     <driver id="mongo">
       <artifact id="MongoDB" name="MongoDB" use="true" version="1.18" />
     </driver>
+    <driver id="mysql">
+      <artifact />
+      <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="5.1.47" />
+    </driver>
     <driver id="postgresql">
       <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.6.0" />
     </driver>
