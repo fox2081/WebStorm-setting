@@ -1,0 +1,12 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="TypeScript">
+        <added pattern="func(data)" />
+      </blacklist>
+    </blacklists>
+    <option id="angular.show.names.for.all.args" value="true" />
+    <option id="sql.show.column.names.for.set.operations" value="true" />
+    <option id="vuejs.show.names.for.all.args" value="true" />
+  </component>
+</application>
